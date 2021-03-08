@@ -1,4 +1,4 @@
-# Cap Stone Project
+# Capstone Project
 
 The purpose of this project is to design and implement AI with out ever having learned AI. Wish us luck:)
 
